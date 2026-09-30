@@ -2,7 +2,7 @@
 
 A small Netflix-style movie explorer built with React and the TMDB API. You can browse popular movies, search for any movie and save your favorites.
 
-**Live Demo:** ADD_YOUR_VERCEL_LINK_HERE
+**Live Demo:** https://sprint8cinestream.vercel.app/
 ---
 
 ## Features
